@@ -1,0 +1,6 @@
+﻿@font-face {
+  font-family: 'Dosis';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/dosis/v27/HhyJU5sn9vOmLxNkIwRSjTVNWLEJN7Ml1RMB.ttf) format('truetype');
+}
